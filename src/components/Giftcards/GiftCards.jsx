@@ -139,7 +139,7 @@ const GiftCards = () => {
       <div className="full-width-container">
         <h2 className="giftcards-title">Gift Cards for Travel Lovers</h2>
         <p className="giftcards-intro">
-          Surprise your loved ones with the perfect gift! Our travel gift cards are ideal for any occasion, letting recipients choose their own adventures with See My Trip.
+          Surprise your loved ones with the perfect gift! Our travel gift cards are ideal for any occasion, letting recipients choose their own adventures with Go Trip Go.
         </p>
 
         <Row>

@@ -95,7 +95,7 @@ const Header02 = () => {
         <div className="container">
           <nav id="navigation" className="navigation navigation-landscape">
             <div className="nav-header">
-              <NavLink to="/" className="nav-brand"><img src={trainImage} className="logo" alt="" /></NavLink>
+              <NavLink to="/" className="nav-brand"><img src={trainImage} className="logo" alt="" style={{ width:'100px' }} /></NavLink>
               <div className="nav-toggle" />
               <div className="mobile_nav">
                 <ul>

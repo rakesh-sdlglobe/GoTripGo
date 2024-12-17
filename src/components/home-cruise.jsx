@@ -27,7 +27,7 @@ const HomeCruise = () => {
     <div>
       <meta charSet="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <title>See My Trip - Tour &amp; Travel Booking Agency </title>
+      <title>Go Trip Go - Tour &amp; Travel Booking Agency </title>
       <link rel="icon" type="image/x-icon" to="assets/img/favicon.png" />
       {/* All Plugins */}
       <link to="assets/css/bootstrap.min.css" rel="stylesheet" />
@@ -82,7 +82,7 @@ const HomeCruise = () => {
                   <h1>
                     Start Your Trip with{" "}
                     <span className="position-relative z-4">
-                      See My Trip
+                      Go Trip Go
                       <span className="position-absolute top-50 start-50 translate-middle d-none d-md-block mt-4">
                         <svg width="185px" height="23px" viewBox="0 0 445.5 23">
                           <path
